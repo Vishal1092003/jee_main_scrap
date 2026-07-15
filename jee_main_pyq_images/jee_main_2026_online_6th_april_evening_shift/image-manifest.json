@@ -1,0 +1,578 @@
+{
+  "paper": "jee_main_2026_online_6th_april_evening_shift",
+  "totalImageOccurrences": 57,
+  "failedDownloads": 0,
+  "images": [
+    {
+      "questionNumber": 3,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo45o46j/adbc9e45-5a9f-4f11-890f-2ffaa5e16770/e795a8a0-3b0b-11f1-89dc-0d4686aaa9a3/file-6y3zli1mo45o46k.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q003_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q003_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 5,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo45zcxe/cb072c1a-7678-48e9-91aa-e2a043a1692b/203df120-3b0d-11f1-89dc-0d4686aaa9a3/file-6y3zli1mo45zcxf.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q005_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q005_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 8,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo46cgrx/4ed73f44-6df9-4818-b2ad-d5c9405650ee/8cbbb9d0-3b0e-11f1-89dc-0d4686aaa9a3/file-6y3zli1mo46cgry.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q008_question_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q008_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 8,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo46emgl/ae48dd57-70c0-4594-b9bc-35b58c478776/c8be4650-3b0e-11f1-89dc-0d4686aaa9a3/file-6y3zli1mo46emgm.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q008_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q008_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 9,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo46lewv/f6512848-0840-42d9-9086-db8a8c1b8a2b/8593cc00-3b0f-11f1-89dc-0d4686aaa9a3/file-6y3zli1mo46leww.webp",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q009_explanation_img01.webp",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q009_explanation_img01.webp",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 11,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4ehkgz/8e080094-414e-4dc2-a5a2-109972cafdb1/63aad330-3b2e-11f1-8c42-c7a7a182458c/file-6y3zli1mo4ehkh0.webp",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q011_explanation_img01.webp",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q011_explanation_img01.webp",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 13,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4eqkm9/3f12e608-ead2-4f92-b16a-cfc7634b41d6/5e101510-3b2f-11f1-8c42-c7a7a182458c/file-6y3zli1mo4eqkma.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q013_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q013_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 14,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4eug49/90006487-a0f1-47e3-9146-e277516c714b/c9d2c090-3b2f-11f1-8c42-c7a7a182458c/file-6y3zli1mo4eug4a.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q014_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q014_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 18,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mnt2wtlq/cae23d14-5d00-45ad-bb39-875dcc1118c7/7f2a4fe0-34f4-11f1-a0ba-554d230e3732/file-6y3zli1mnt2wtlr.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q018_question_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q018_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 18,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4fa6et/2e05c888-f196-4aed-96df-2b1c13b0cadb/7f457250-3b31-11f1-8c42-c7a7a182458c/file-6y3zli1mo4fa6eu.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q018_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q018_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 19,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4fpv2y/9e0021cb-81a5-42b5-9355-64909243bdc1/33773fa0-3b33-11f1-8c42-c7a7a182458c/file-6y3zli1mo4fpv2z.webp",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q019_question_img01.webp",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q019_question_img01.webp",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 19,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4fsjo3/b6cdbb8d-e127-4293-af9a-524a2e1fc9bc/7e13be30-3b33-11f1-8c42-c7a7a182458c/file-6y3zli1mo4fsjo4.webp",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q019_explanation_img01.webp",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q019_explanation_img01.webp",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 20,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mnt2zskx/683291c4-7f8c-4caf-ad11-a04f8623fb0a/d1cd8e10-34f4-11f1-a0ba-554d230e3732/file-6y3zli1mnt2zsky.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q020_question_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q020_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 21,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4jl23l/580cd355-327e-4414-9bc3-dc52c8221086/525b9510-3b42-11f1-a2ba-f57fd97b4b05/file-6y3zli1mo4jl23m.webp",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q021_explanation_img01.webp",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q021_explanation_img01.webp",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 23,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4juqgd/5f2f2ce0-6446-4bcc-a968-bcf3d5da431a/5f7421d0-3b43-11f1-a2ba-f57fd97b4b05/file-6y3zli1mo4juqge.webp",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q023_explanation_img01.webp",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q023_explanation_img01.webp",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 23,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4jy72v/59e47190-f627-4180-8914-a18a24527a44/bfb93670-3b43-11f1-a2ba-f57fd97b4b05/file-6y3zli1mo4jy72w.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q023_explanation_img02.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q023_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 24,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4k6dwa/5d5b0056-40d8-4370-b8ed-7020d28ae4e0/a37673a0-3b44-11f1-a2ba-f57fd97b4b05/file-6y3zli1mo4k6dwb.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q024_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q024_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 24,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo4k93zt/648328c6-f095-428f-abf1-53447a836305/ef3db690-3b44-11f1-a2ba-f57fd97b4b05/file-6y3zli1mo4k93zu.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q024_explanation_img02.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q024_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 28,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq415m/df20c071-6320-47d4-b91e-ea3bff56c72f/55529c90-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq415n.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q028_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q028_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 28,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq4256/b4a38db2-7ebb-41f3-af94-973f41be2110/561613a0-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq4257.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q028_explanation_img02.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q028_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 28,
+      "type": "explanation",
+      "imageNumber": 3,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq42x4/0c735d0e-1700-4f7f-9217-c05df5f9c952/56af9480-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq42x5.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q028_explanation_img03.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q028_explanation_img03.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 28,
+      "type": "explanation",
+      "imageNumber": 4,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq43ol/a206c8df-215f-4a25-8539-fe8cf4d3dfd3/57467d50-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq43om.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q028_explanation_img04.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q028_explanation_img04.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 28,
+      "type": "explanation",
+      "imageNumber": 5,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq44fv/87634da9-81b4-462b-a19b-c5f645cb805b/57dc54b0-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq44fw.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q028_explanation_img05.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q028_explanation_img05.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 28,
+      "type": "explanation",
+      "imageNumber": 6,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq458i/4c13b9e7-9631-4eb2-a5c3-a2755521ff59/5879a620-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq458j.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q028_explanation_img06.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q028_explanation_img06.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 28,
+      "type": "explanation",
+      "imageNumber": 7,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq45u7/831ffc9e-f060-487a-b1b8-c8a79a84aa11/58f0f900-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq45u8.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q028_explanation_img07.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q028_explanation_img07.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 28,
+      "type": "explanation",
+      "imageNumber": 8,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq46so/93a29069-7762-47a4-91c2-f00c0f7dcd3b/59ae2e80-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq46sp.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q028_explanation_img08.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q028_explanation_img08.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 30,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mnt31xa2/7cd8513c-6318-4e2c-9d74-b710bd175214/0d0cf1a0-34f5-11f1-a0ba-554d230e3732/file-6y3zli1mnt31xa3.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q030_question_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q030_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 32,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mnt35jxt/70bf19f2-14bb-4ce7-b968-8a73e184624b/71fb6a10-34f5-11f1-a0ba-554d230e3732/file-6y3zli1mnt35jxu.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q032_option_B_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q032_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 34,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq80qe/95e062d8-554e-4b70-b01c-5ce511c57475/c43bb560-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq80qf.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q034_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q034_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 34,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq81yr/e77ec21e-6d21-449e-a445-2aea2b722423/c52f6430-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq81ys.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q034_explanation_img02.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q034_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 34,
+      "type": "explanation",
+      "imageNumber": 3,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq82tc/c794e417-bb18-4324-9aed-bb4f6d61d4fd/c5d76400-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq82td.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q034_explanation_img03.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q034_explanation_img03.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 36,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq9i44/cc7f0963-03b5-4d9d-b2a0-d9cf53dc7b2b/ed780b40-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq9i45.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q036_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q036_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 36,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq9j1k/404c33d7-f694-4dc6-b8c9-a4072d14baf9/ee2fc280-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq9j1l.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q036_explanation_img02.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q036_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 36,
+      "type": "explanation",
+      "imageNumber": 3,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq9jth/d1ee0a7d-526e-431b-b51c-2be16f97e446/eec91c50-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq9jti.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q036_explanation_img03.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q036_explanation_img03.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 36,
+      "type": "explanation",
+      "imageNumber": 4,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobq9kza/23bb4aca-5d21-4a24-8649-858ba8dbf4d8/efaec160-3f35-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobq9kzb.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q036_explanation_img04.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q036_explanation_img04.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mnt37ry9/16636331-dc2f-4918-a42d-8e390fdedcfa/afca2b10-34f5-11f1-a0ba-554d230e3732/file-6y3zli1mnt37rya.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q038_question_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q038_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobqb2wn/b6833413-8485-4979-90ef-c39df81784de/1956f870-3f36-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobqb2wo.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q038_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q038_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobqb3gw/a743e524-eedf-449e-a7ea-82648e8d9f84/19c63500-3f36-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobqb3gx.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q038_explanation_img02.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q038_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 39,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo344v1r/008c5684-df84-4213-940b-bb68e518912c/1e60cbf0-3a79-11f1-a2c5-23d1901665ac/file-6y3zli1mo344v1s.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q039_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q039_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 40,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo34ja3w/dc5b1ff0-d6c0-459b-ad0d-f7c36d1fe4c0/af56d2c0-3a7a-11f1-a2c5-23d1901665ac/file-6y3zli1mo34ja3x.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q040_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q040_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 41,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mnt3a1na/ed085a8f-cc0a-4cc2-8bdf-eb7f6168e503/eee5b760-34f5-11f1-a0ba-554d230e3732/file-6y3zli1mnt3a1nb.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q041_question_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q041_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 41,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo34qova/00c18ea3-dc28-42ba-981c-6dcc727c96c1/7d67d060-3a7b-11f1-a2c5-23d1901665ac/file-6y3zli1mo34qovb.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q041_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q041_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mnt3bzby/883b84d0-a516-4370-a4f5-03017e2c3833/24ba3be0-34f6-11f1-a0ba-554d230e3732/file-6y3zli1mnt3bzbz.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q042_question_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q042_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobqccom/36aee80e-2d10-420d-8e52-a3605c04bffa/3cb38d60-3f36-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobqccon.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q042_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q042_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobqcdaf/11254d05-e9f6-4bba-902c-d775c5a8da5a/3d2b5570-3f36-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobqcdag.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q042_explanation_img02.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q042_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "explanation",
+      "imageNumber": 3,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobqcdw4/6c200438-9d27-4010-a23a-d79ec39b0463/3da2a850-3f36-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobqcdw5.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q042_explanation_img03.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q042_explanation_img03.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "explanation",
+      "imageNumber": 4,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobqceb5/25afd824-5cf0-4582-8256-7b3382bfdb99/3df50e10-3f36-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobqceb6.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q042_explanation_img04.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q042_explanation_img04.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "explanation",
+      "imageNumber": 5,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobqcemu/710a6b99-c6a8-4dd4-885c-b061b7605740/3e354b60-3f36-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobqcemv.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q042_explanation_img05.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q042_explanation_img05.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "explanation",
+      "imageNumber": 6,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1mobqcexc/6d18fe78-f25f-4cf6-8768-b4f9e5ca67a7/3e6ef900-3f36-11f1-8907-9d59f06ca3d8/file-jaoe38c1mobqcexd.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q042_explanation_img06.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q042_explanation_img06.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 43,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mnt3dn76/fb7403ad-4b60-4b80-8070-7170efdc66b4/52f93920-34f6-11f1-a0ba-554d230e3732/file-6y3zli1mnt3dn77.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q043_question_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q043_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 43,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo34vywf/810bb136-4e09-4259-90c8-1a52915ef46f/10334ff0-3a7c-11f1-a2c5-23d1901665ac/file-6y3zli1mo34vywg.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q043_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q043_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 43,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo34xdac/85678bcd-019a-4744-a986-26f498b76929/371f7440-3a7c-11f1-a2c5-23d1901665ac/file-6y3zli1mo34xdad.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q043_explanation_img02.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q043_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 44,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mnt3g08d/df21c118-7d17-4db0-af15-fb3f08e5a06c/94a8ddd0-34f6-11f1-a0ba-554d230e3732/file-6y3zli1mnt3g08e.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q044_question_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q044_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 44,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo354y4e/8b26727a-911c-4e3a-bef0-180751ce7d37/09e19de0-3a7d-11f1-a2c5-23d1901665ac/file-6y3zli1mo354y4f.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q044_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q044_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 47,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo37u0yi/a0a4e29e-e7c6-41db-9d83-6efdf09ac8f5/958f2ba0-3a87-11f1-a6c2-d1325169f62c/file-6y3zli1mo37u0yj.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q047_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q047_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 49,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1mo37zsdz/248e3cae-4c38-4661-ad7c-00118da16046/35cb3870-3a88-11f1-a6c2-d1325169f62c/file-6y3zli1mo37zse0.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q049_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q049_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 60,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/6y3zli1moyqn24g/4c60d1ec-e3dd-4192-b5ac-d3d49114ef10/6d61af10-4bdd-11f1-bd92-c3ee2c996626/file-6y3zli1moyqn24h.png",
+      "localUrl": "/media/upload/jee_main_2026_online_6th_april_evening_shift/jee_main_2026_online_6th_april_evening_shift_q060_explanation_img01.png",
+      "fileName": "jee_main_2026_online_6th_april_evening_shift_q060_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    }
+  ],
+  "failures": []
+}
