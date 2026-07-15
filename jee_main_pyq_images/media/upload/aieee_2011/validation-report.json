@@ -1,0 +1,16 @@
+{
+  "isValid": true,
+  "totalQuestions": 93,
+  "subjectCounts": {
+    "physics": 30,
+    "chemistry": 31,
+    "mathematics": 32
+  },
+  "typeCounts": {
+    "mcq": 92,
+    "mcqm": 1
+  },
+  "totalImageOccurrences": 22,
+  "failedImageDownloads": 0,
+  "issues": []
+}

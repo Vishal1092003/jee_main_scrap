@@ -1,0 +1,20 @@
+{
+  "isValid": false,
+  "totalQuestions": 118,
+  "subjectCounts": {
+    "physics": 40,
+    "chemistry": 40,
+    "mathematics": 38
+  },
+  "typeCounts": {
+    "mcq": 118
+  },
+  "totalImageOccurrences": 38,
+  "failedImageDownloads": 0,
+  "issues": [
+    {
+      "questionNumber": 66,
+      "issue": "Question text is empty."
+    }
+  ]
+}

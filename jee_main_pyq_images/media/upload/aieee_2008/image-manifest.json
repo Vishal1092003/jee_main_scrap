@@ -1,0 +1,748 @@
+{
+  "paper": "aieee_2008",
+  "totalImageOccurrences": 74,
+  "failedDownloads": 0,
+  "images": [
+    {
+      "questionNumber": 2,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/xESx4eROk7ziFNEhE/kwwZFQqY94LmQ2zp1saZIEqnCfKdK/kyNpqYgwXAQBvClXS2ThMS/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q002_question_img01.png",
+      "fileName": "aieee_2008_q002_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 3,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/0Wtj0mlQtLgI4pSlL/fVNGwYMLO71I9mB0KZc1Guuj4h6nA/Z0AVcgEQRjwZL6Dpp4gNtE/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q003_option_A_img01.png",
+      "fileName": "aieee_2008_q003_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 3,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/ZHYbDKgRID4cCNl0z/PVi11T4dFoBI8M0iAZtvXv54pDNhB/FaorYz96ofoX64fNynHrSB/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q003_option_B_img01.png",
+      "fileName": "aieee_2008_q003_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 3,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/f4ISrirDWJCiXlbmY/S4rebsgWrFsMlfNMu01FJAxWdDPC0/JJJDIe6G06LGcwnfeSLv42/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q003_option_C_img01.png",
+      "fileName": "aieee_2008_q003_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 3,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/vv8ZxwpGRRAjUKYcA/ERmKCRk5zqymX392OoSJvWLB1fXxh/DeeUIZEC9nsHqQhGqRhqB2/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q003_option_D_img01.png",
+      "fileName": "aieee_2008_q003_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 3,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/HHte8BfSHJOQTJFeD/sr2iRK5qxPXxIUyJ1BxObXGJv4dqy/DVvRj7khvZAbIJQZEotErf/image.svg",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q003_explanation_img01.svg",
+      "fileName": "aieee_2008_q003_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 4,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/UlysoC9tmxlUr4L2K/Wg84RJ3Q5yy8kuhGCFNDRoClAvn2u/YtALKJEjIpERXg5WEN5n45/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q004_option_A_img01.png",
+      "fileName": "aieee_2008_q004_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 4,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/n6yqDl8BvOQl8L9z8/ohJKadq4xT0ZFlZd1LDkqXXNjIBIj/MQCUxUUiMxMOyLx6cS9Kg0/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q004_option_B_img01.png",
+      "fileName": "aieee_2008_q004_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 4,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/qeyoWwtKPBYXZM6fG/K8i43CqzAQacgian0z4ZAEIOeh3IJ/LrDROUd6wSGejB2Gr9rKrz/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q004_option_C_img01.png",
+      "fileName": "aieee_2008_q004_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 4,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/ft19e3NAsq45wFLDK/eOXZSSffPmByu8hl54yeo40nX3LvR/gfDZbj6AGacwpfoUIVCgBV/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q004_option_D_img01.png",
+      "fileName": "aieee_2008_q004_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 4,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/y4Ii5xEKrpervdSSh/edUUZ9WxMOPrPlRrDsNCV7dCi4tcs/3Z5Jsc3vSoZUbidJDcDdtJ/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q004_explanation_img01.png",
+      "fileName": "aieee_2008_q004_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 5,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/sKYfp6TljvS3eTa98/HdqTgtHBB2VTRM0i67EkQm3qyMCmO/kk4EZJNZ4Kwp2NjeMDO7Gj/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q005_option_A_img01.png",
+      "fileName": "aieee_2008_q005_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 5,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/ijO8wiHHSUgshTVKL/6epH2At3ESscBiqgDib3mkze5HOmR/RHbA9FHGiD2nmFMiPwgyAh/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q005_option_B_img01.png",
+      "fileName": "aieee_2008_q005_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 5,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/vExTQxWToQ3z3xgeh/RwGOmZErWvlO8vDLZYVAt7q0ezOtV/aafaJ4tCXKLKZyThZGeurp/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q005_option_C_img01.png",
+      "fileName": "aieee_2008_q005_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 5,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/IImKOAN9J4NZ0XRd4/b3uwKuSw0bk7yng9WmhsaIZxkhZmh/J9MAu7UlMzOkb9eFdV4Yf1/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q005_option_D_img01.png",
+      "fileName": "aieee_2008_q005_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 7,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/dCrxyqN2t9qic3vxL/3sLhZsfK0H88LZCPg6LGhLCmdtHkX/NsSodhvhgkZE8gIkM7A6dJ/image.svg",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q007_explanation_img01.svg",
+      "fileName": "aieee_2008_q007_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 10,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/hQrGhD8Baajp3VDyo/M0X0tIyTELBrmCevFHqdkKQTtsLP3/0ZqvFmjTlHkvJ7pDEdbHXD/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q010_option_A_img01.png",
+      "fileName": "aieee_2008_q010_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 10,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/TxVzRLSZaH767Uoar/8OZ2lDPZUVzjuzIFo7y2OaR3fcc3u/zRyLJSVN09GpUNnLavJM3I/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q010_option_B_img01.png",
+      "fileName": "aieee_2008_q010_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 10,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/KSF460bENvREcdaHo/ovRiluvWQf2EQNQG7tGQaCNNNpKQO/XjE54xwtf4r4r52JbmyUvg/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q010_option_C_img01.png",
+      "fileName": "aieee_2008_q010_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 10,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/B43chV0LfPgBrF5tg/uGnlVKKimcGDsaPhxGoEE9q0fPndk/naA7r5nIf1klwqPTrOceNN/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q010_option_D_img01.png",
+      "fileName": "aieee_2008_q010_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 13,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/a9S3FDoy4i5ctNE1O/UAvoocYSYyRQ3kZNk5RjRMoIJYROy/YjMWIkmBWTldK7RuWx2Ykk/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q013_question_img01.png",
+      "fileName": "aieee_2008_q013_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 13,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1da9i2ynkd5t8zcw/8f3228e8-2d11-46db-8e63-5535f3fb48bb/f205c710-d0be-11ea-b796-4745b429ed6f/file-1da9i2ynkd5t8zcx-680w.jpg",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q013_explanation_img01.jpg",
+      "fileName": "aieee_2008_q013_explanation_img01.jpg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 15,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/bENXrcH9dAS9IfwU7/aI1XhjAdJDBKlfQ6EGTTIfl3oOv0A/YXl1QQo6q8LjBqzDH0xSAw/image.svg",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q015_explanation_img01.svg",
+      "fileName": "aieee_2008_q015_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 19,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/AuUk2rVdCTOs6N0ZE/Htu6faadxMwhaWivdgVVu1Hw3dtvi/vXeQxYSpkble7brgAzAbhC/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q019_question_img01.png",
+      "fileName": "aieee_2008_q019_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 19,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/cbFj7x8DsrI8mFrxV/3TxmW5e5LS7ccXqXFO0HdhkqkyqqK/EAUSMtjm65VAHb0Nw53GYe/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q019_explanation_img01.png",
+      "fileName": "aieee_2008_q019_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 20,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/R2GzkcczIHDVpGkBs/nIi4fPSW2ayuiJi9ZmKZYqlcG2v2o/NDW1DmQsIsTPI15qyFuMU0/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q020_question_img01.png",
+      "fileName": "aieee_2008_q020_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 21,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/2wc8L3HWb7fuzT0i5/XgV5IVjawTmPn4DEEVlC4AUkxiLaV/XwIR5UADf4AT2go4un9NLD/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q021_option_A_img01.png",
+      "fileName": "aieee_2008_q021_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 21,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/K4KZWvonOll1jos4d/h22aebpsK7NM06bOMl3inWKBjaFUZ/7uhC0ixT3KA90q00pfxVdu/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q021_option_B_img01.png",
+      "fileName": "aieee_2008_q021_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 21,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/PV0mQAaGOzRM94cnu/FQaZpFZ9bxPY2CSGxukfLFnDga2f7/doXpzedaSPYgIne5rP8QtF/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q021_option_C_img01.png",
+      "fileName": "aieee_2008_q021_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 21,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/v0PLEl1gbukSnGBKJ/BPGQhBq2uv0tr81ffIdfKFn0qMYzR/PU78bbxdt8Ahiz3FaEdD3z/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q021_option_D_img01.png",
+      "fileName": "aieee_2008_q021_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 22,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/eAw9GIRclNRuJMCPv/FVkqNFdMW4Mqnh6uJEqThcxR1BWdI/HY0mT4vEaW7HD8ZbppADWE/image.svg",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q022_explanation_img01.svg",
+      "fileName": "aieee_2008_q022_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 23,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/R2GzkcczIHDVpGkBs/nIi4fPSW2ayuiJi9ZmKZYqlcG2v2o/NDW1DmQsIsTPI15qyFuMU0/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q023_question_img01.png",
+      "fileName": "aieee_2008_q023_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 23,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/NJX55SAizoMcvmfgA/97ay69cqpPJC6mvRr1prv5UsXCNXn/PhAERJh2zZ768pN9oJijLR/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q023_explanation_img01.png",
+      "fileName": "aieee_2008_q023_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 24,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/Klf64purAft0Af94I/QZY4MROVkc3Bqma59teitgGvnQUZ0/scXhmXBOqAOzrW2fb6zQHK/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q024_question_img01.png",
+      "fileName": "aieee_2008_q024_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 27,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/o0s0xYSCUFvunsQ3V/0gHl8SXjTdSDKMMarKJ4HAvOqC8cz/dI90TkyFjfxq3kEW7zuroA/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q027_question_img01.png",
+      "fileName": "aieee_2008_q027_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 27,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/gkxNlGpujsXLweYWu/YUxeOFOMhHxQuNTLkNmM9QVzyRCJ3/nrrPludMsWNQBaaqrxaiP2/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q027_option_A_img01.png",
+      "fileName": "aieee_2008_q027_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 27,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/uZomERVLjz4fZUZ5k/7cAECKr5qXo54jlaWUbLnUlAHsIqt/LPWQfrI977FFKwF8wAruAE/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q027_option_B_img01.png",
+      "fileName": "aieee_2008_q027_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 27,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/9gFX1i6LFbZ2ikz6O/njgWY1pwRnbucH6LIl4GUILVg2kqF/bZg7oIzQCAstITInvsMPje/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q027_option_C_img01.png",
+      "fileName": "aieee_2008_q027_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 27,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/yqToGmAWZf4BcHaVo/N2N44YVuK6L5XCPUQsPmAAQhjC7mS/aAH9N2MDTQ60aXuXFW1urD/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q027_option_D_img01.png",
+      "fileName": "aieee_2008_q027_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 29,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/Klf64purAft0Af94I/QZY4MROVkc3Bqma59teitgGvnQUZ0/scXhmXBOqAOzrW2fb6zQHK/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q029_question_img01.png",
+      "fileName": "aieee_2008_q029_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 32,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/WDw1jrRCIHepK8I9g/nGYyMpcVu8Al184jpuVCafTA0pFQR/7sGGGxDxI1coTXtdjDD1OO/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q032_explanation_img01.png",
+      "fileName": "aieee_2008_q032_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 35,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/aK99gDsKpX9alb0De/SvIB9wX4lbBa2X4SIZsAm2r1PFFa6/udjrvC5i6BpRQw2Q1vuy9s/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q035_question_img01.png",
+      "fileName": "aieee_2008_q035_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/Sd9KTCZngETSWJseI/lfaPoXd95rn88fsZFY2AGnYrUHwli/Zv0vHlnpS96osBQKrFvM3v/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img01.png",
+      "fileName": "aieee_2008_q038_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/1kzpnphcp/3a244065-8715-4bb9-8b04-0419903a872e/b56b0090-8f35-11ec-a918-532e52a0063e/file-1kzpnphcq.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img02.png",
+      "fileName": "aieee_2008_q038_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 3,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/1kzpnzht2/441ed497-3450-4ea2-9a04-0c56068636cd/cbdc6f70-8f36-11ec-a918-532e52a0063e/file-1kzpnzht3.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img03.png",
+      "fileName": "aieee_2008_q038_explanation_img03.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 4,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/1kzpo1x19/95ae67d6-ffec-4705-9a44-f999c83fb334/0f3de2d0-8f37-11ec-a918-532e52a0063e/file-1kzpo1x1a.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img04.png",
+      "fileName": "aieee_2008_q038_explanation_img04.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 5,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/1kzpvjtwd/7f6f089d-c6fe-48b9-a1c4-595a3e306171/6149bcd0-8f54-11ec-9257-c58bf97b0f56/file-1kzpvjtwe.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img05.png",
+      "fileName": "aieee_2008_q038_explanation_img05.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 6,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/1kzpvhyj3/f2fd0132-de26-476f-a616-bb759c9e8742/2d3f49f0-8f54-11ec-9257-c58bf97b0f56/file-1kzpvhyj4.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img06.png",
+      "fileName": "aieee_2008_q038_explanation_img06.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 7,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/1kzpvmmrd/c937a359-3ffe-4683-9bd3-3074eee29a56/af336a90-8f54-11ec-9257-c58bf97b0f56/file-1kzpvmmre.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img07.png",
+      "fileName": "aieee_2008_q038_explanation_img07.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 8,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/1kzpvotae/df9c34e4-532f-4453-a80e-a39f58a78c6f/ebdcbe60-8f54-11ec-9257-c58bf97b0f56/file-1kzpvotaf.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img08.png",
+      "fileName": "aieee_2008_q038_explanation_img08.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 9,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/1kzpvr75i/aa709c39-b3cb-474c-a088-787493f284bd/2e30b960-8f55-11ec-9257-c58bf97b0f56/file-1kzpvr75j.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img09.png",
+      "fileName": "aieee_2008_q038_explanation_img09.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 10,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/1kzpvsokz/b5b4a5c1-59e5-4cd2-8160-01d5ef423466/5776ac30-8f55-11ec-9257-c58bf97b0f56/file-1kzpvsol0.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q038_explanation_img10.png",
+      "fileName": "aieee_2008_q038_explanation_img10.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 41,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/Wo4LE5DxSefVUGebx/TxTOeWMxVDprWSQROQC4aqt4KFqb2/FFydIuhkeH82nX5E6XcEaY/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q041_explanation_img01.png",
+      "fileName": "aieee_2008_q041_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/mmVfKmnpwjBHU7maq/cninBFLCpG603GOL78WBESb1YhBnu/qUNYuWmg5F6YIvN3nL3Hph/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q042_explanation_img01.png",
+      "fileName": "aieee_2008_q042_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 44,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1momtt33h/1848d673-a6ba-4ff4-b98e-0594b3430ee1/6894f9d0-4550-11f1-b3bf-274115fadc91/file-jaoe38c1momtt33i.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q044_explanation_img01.png",
+      "fileName": "aieee_2008_q044_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 44,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://app-content.cdn.examgoal.net/image/jaoe38c1momtt41q/8780b806-55ef-4176-9fe7-faee24ed6aeb/69511de0-4550-11f1-b3bf-274115fadc91/file-jaoe38c1momtt41r.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q044_explanation_img02.png",
+      "fileName": "aieee_2008_q044_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 46,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/rdcHbX0bbcRtVzJBz/8SdwikfbwCzMqF2QeOd34VsVgA1nd/nqzLOdsEZyF8QKLyRmLFWR/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q046_question_img01.png",
+      "fileName": "aieee_2008_q046_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 49,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/fOdpotjlwmMERT8t2/5DAGOWiM7SpxClu55aVvH5fz0m1Tf/WKRwNXqDhlCWP0WB0PDgJW/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q049_explanation_img01.png",
+      "fileName": "aieee_2008_q049_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 53,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/cau1gjLyl9ti5HFQM/uIbwiNUgvpHCQBSDWZo9W4bNYIMKz/5R8mXZwrsrLk8Qw8YHmsHA/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q053_option_A_img01.png",
+      "fileName": "aieee_2008_q053_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 53,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/pekTjjXQ6Dy5qxD87/b2y2N1kekB9cCjvaub4qKvgK7YGCx/RKMSe6pygUrI4eyudD76Bc/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q053_option_B_img01.png",
+      "fileName": "aieee_2008_q053_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 53,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/q4fTsznxutUR3QBRw/avSukIxoNfJKxDzcTNgRcIF1XV2O1/cV5PHSVjzLVRv5amIw0N72/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q053_option_C_img01.png",
+      "fileName": "aieee_2008_q053_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 53,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/XFv9LHunRNX8ubSv5/qxZpmkcrYGmrhgqPHW2ZwlMo2qIos/BPNrVU3DqPe7HP7PDmVn0v/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q053_option_D_img01.png",
+      "fileName": "aieee_2008_q053_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 55,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/rHdLyQbe22ZgeK3wo/8fmITpapNF5g4UlAU9kPaETCLu8Gu/Bi9y3GIRaZmcVNTEu1JX8z/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q055_explanation_img01.png",
+      "fileName": "aieee_2008_q055_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 56,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/o5dirjyQkx4Udt14x/n0p9vyRwXzqQTCvogOZyjjZD4vVC9/9zRymhZEC8KeVotS8KLkAe/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q056_explanation_img01.png",
+      "fileName": "aieee_2008_q056_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 56,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/yjeOJ1HYbvEzW1GWT/TxzXz3UvM9tFdWwCrbl9uwTzjhEca/WelNNdwPXu8sc5z2hgeIyu/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q056_explanation_img02.png",
+      "fileName": "aieee_2008_q056_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 56,
+      "type": "explanation",
+      "imageNumber": 3,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/OiXW3YoeZpXQR6lKx/ID2xfzb7WyKwN5eud0PjIbFbk6m72/kykyfvE3fwoWsdRqYSYoZm/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q056_explanation_img03.png",
+      "fileName": "aieee_2008_q056_explanation_img03.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 65,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/KGkukhOTrtFsaXi9E/waFJ4V0o1tanqqTBGsmFhjNFQCtMO/qC4IvYSQyTgvThu2Dk5Umx/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q065_explanation_img01.png",
+      "fileName": "aieee_2008_q065_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 71,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/qocFb9rtMHr7P5nmL/yfXJBEFVXxa1sTjTTWwiAP2oiIIu7/ljEwpXQPM53MSOswy5n5Jf/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q071_option_C_img01.png",
+      "fileName": "aieee_2008_q071_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 71,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/vXHZfw4jlYHr0EKGS/g2TmBxsWxgOR4Hxgy1sS82eiJjCpx/vmfNydFL28knRkz9YHmKaz/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q071_explanation_img01.png",
+      "fileName": "aieee_2008_q071_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 80,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/NYuIfnXaI7MsBEav5/ScZkBx0GPpq8dzm3grHhrkqtujvDP/JsHouUcWzEirNkYxCA8QGJ/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q080_explanation_img01.png",
+      "fileName": "aieee_2008_q080_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 92,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/7VFHcnwNT2KbaxetC/Ygi2yXzjgL4mpY8G32wy8AeIppesQ/oDshQmKSrXKKTKMvzNlr0S/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q092_explanation_img01.png",
+      "fileName": "aieee_2008_q092_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 96,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/m0Vv4junoN9pIv95M/SARoguMDLqfsSTQwnS1kE0lhTp630/7QWIoNyxtLAYRyqvTd9sSC/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q096_explanation_img01.png",
+      "fileName": "aieee_2008_q096_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 99,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/7xPxl4dx1QuBImzM2/Te9roEbCeRRR1KNSC5W8SDSKgAhcZ/NYp98zjqpYgZzXFNyA3dZW/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q099_explanation_img01.png",
+      "fileName": "aieee_2008_q099_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 102,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/E8wKNFxVEJT6v7nMK/nHbuqfkfsNQujyjZRe8IkwcGESYDH/vCRi1TkRMq13VBU9LFdpXE/image.png",
+      "localUrl": "/media/upload/aieee_2008/aieee_2008_q102_explanation_img01.png",
+      "fileName": "aieee_2008_q102_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    }
+  ],
+  "failures": []
+}
