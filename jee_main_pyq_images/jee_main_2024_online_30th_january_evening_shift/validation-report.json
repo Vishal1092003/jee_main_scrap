@@ -1,0 +1,26 @@
+{
+  "isValid": false,
+  "totalQuestions": 90,
+  "subjectCounts": {
+    "physics": 30,
+    "chemistry": 30,
+    "mathematics": 30
+  },
+  "typeCounts": {
+    "mcq": 59,
+    "mcqm": 1,
+    "integer": 30
+  },
+  "totalImageOccurrences": 53,
+  "failedImageDownloads": 0,
+  "issues": [
+    {
+      "questionNumber": 16,
+      "issue": "Correct MCQ option is missing."
+    },
+    {
+      "questionNumber": 75,
+      "issue": "Correct MCQ option is missing."
+    }
+  ]
+}
