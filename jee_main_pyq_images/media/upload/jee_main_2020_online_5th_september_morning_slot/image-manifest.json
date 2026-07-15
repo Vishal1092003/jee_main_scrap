@@ -1,0 +1,438 @@
+{
+  "paper": "jee_main_2020_online_5th_september_morning_slot",
+  "totalImageOccurrences": 43,
+  "failedDownloads": 0,
+  "images": [
+    {
+      "questionNumber": 3,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfg6hpqt/d7a00581-bcae-4ebd-92d7-31f6946cd63e/00cf1c50-fe0b-11ea-8293-3b6cc591631c/file-jgy2xukfg6hpqu-331w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q003_question_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q003_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 4,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1kjtn1x08/c039d0c2-31ee-48b0-82e4-1c7808924fd7/d2a02d80-54a2-11eb-bc03-4b67b2efa0ee/file-1kjtn1x09-1760w.jpeg",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q004_explanation_img01.jpg",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q004_explanation_img01.jpg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 6,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfga30if/452ea3e9-38ad-435d-8d50-b1a9c810b3ec/0c819d80-fe19-11ea-8293-3b6cc591631c/file-jgy2xukfga30ig-320w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q006_question_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q006_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 6,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1kju91l5r/1f8c3c70-32be-4c2e-b201-0f5f0ad9c05d/d2510600-54f8-11eb-bb0e-bdf37f98ae86/file-1kju91l5s-421w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q006_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q006_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 12,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1kjtn896b/6a46d57a-3cd7-40b3-aedd-810d94ca1169/82e17c30-54a3-11eb-bc03-4b67b2efa0ee/file-1kjtn896c-303w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q012_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q012_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 13,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfg7bd9x/a38c2293-3032-4f04-9a3c-cf898cd02336/39738250-fe0e-11ea-8293-3b6cc591631c/file-jgy2xukfg7bd9y-328w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q013_option_A_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q013_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 13,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfg7byu0/d0efd71d-ba8a-4b9d-9c83-9a22ca3825ab/4a1ad090-fe0e-11ea-8293-3b6cc591631c/file-jgy2xukfg7byu1-306w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q013_option_B_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q013_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 13,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfg7cosn/75c33b28-d1e3-4686-bff1-0952c4b2114e/5e28c970-fe0e-11ea-8293-3b6cc591631c/file-jgy2xukfg7coso-304w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q013_option_C_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q013_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 13,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfg7khkw/3eb9171c-d6c4-4cc2-a86a-85851ec64862/370f1000-fe0f-11ea-8293-3b6cc591631c/file-jgy2xukfg7khkx-311w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q013_option_D_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q013_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 14,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfg6ux0d/7b8f4f3d-bc30-4aa6-ba14-b114e09b5257/6ff0b4d0-fe0c-11ea-8293-3b6cc591631c/file-jgy2xukfg6ux0e-272w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q014_question_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q014_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 14,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1kjtowt6z/1799b007-f5fc-48f8-aca0-dcd6f7a49a33/16e4a9b0-54aa-11eb-bc03-4b67b2efa0ee/file-1kjtowt70-376w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q014_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q014_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 15,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1kjto3w7z/d2c20022-c734-4af9-b612-38d82e067e1c/f2c456f0-54a6-11eb-bc03-4b67b2efa0ee/file-1kjto3w80-356w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q015_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q015_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 19,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1kjv243gd/02612fa2-1081-4328-ae02-37221331ab3e/80cfd2d0-556a-11eb-8019-15fa055c4bb6/file-1kjv243ge-332w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q019_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q019_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 20,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukff41t1q/b0d33f7f-0d8c-4d88-8962-596953c0530c/ab81b6e0-fd74-11ea-8293-3b6cc591631c/file-jgy2xukff41t1r-486w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q020_question_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q020_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 25,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1kjwx88an/e2ef9efd-023c-46bd-aa3b-3c73c9ed20c8/f770e8f0-5670-11eb-a739-f939bf5c9556/file-1kjwx88ao-409w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q025_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q025_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 26,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfjf27a9/fabcae76-cf1d-45f3-8594-9bd99c0b2875/dd85cd10-ffd2-11ea-8293-3b6cc591631c/file-jgy2xukfjf27aa-369w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q026_option_A_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q026_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 26,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfjf2wb4/dd2a5b18-5c87-4a3d-aa86-0eba5da72fbc/f0da8810-ffd2-11ea-8293-3b6cc591631c/file-jgy2xukfjf2wb5-368w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q026_option_B_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q026_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 26,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfjf3ojz/26bbbeed-81f4-40a4-8b7f-05e97d0490af/06ac29f0-ffd3-11ea-8293-3b6cc591631c/file-jgy2xukfjf3ok0-369w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q026_option_C_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q026_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 26,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfjf4aan/48d29d8e-df10-46c6-8144-828d65b7e352/17777af0-ffd3-11ea-8293-3b6cc591631c/file-jgy2xukfjf4aao-364w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q026_option_D_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q026_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 26,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfjf3ojz/26bbbeed-81f4-40a4-8b7f-05e97d0490af/06ac29f0-ffd3-11ea-8293-3b6cc591631c/file-jgy2xukfjf3ok0-369w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q026_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q026_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 32,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfjbgqic/85b39e4d-6262-4a0e-ba46-b46ad9d7752b/cd2f3f40-ffc4-11ea-8293-3b6cc591631c/file-jgy2xukfjbgqid-472w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q032_question_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q032_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 34,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfi6vy9t/72987514-8a35-42dc-a4c7-f5951d8f5f5e/1e05fb10-ff26-11ea-8293-3b6cc591631c/file-jgy2xukfi6vy9u-320w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q034_question_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q034_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 34,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfi6wbj0/50ad8a30-cb6b-483d-905f-9cd4c69cad2e/284349c0-ff26-11ea-8293-3b6cc591631c/file-jgy2xukfi6wbj1-425w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q034_option_A_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q034_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 34,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfi6wnzb/724be854-2c87-4919-9bee-5939ffc37fc5/31e1e770-ff26-11ea-8293-3b6cc591631c/file-jgy2xukfi6wnzc-464w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q034_option_B_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q034_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 34,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfi6wy91/5857ca29-f0d8-4b37-8249-e90917751f03/39d0d950-ff26-11ea-8293-3b6cc591631c/file-jgy2xukfi6wy92-438w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q034_option_C_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q034_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 34,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfi6x95q/8a3f2244-7acc-4b1b-84f9-ea1063341ec5/423dfbe0-ff26-11ea-8293-3b6cc591631c/file-jgy2xukfi6x95r-439w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q034_option_D_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q034_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 34,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh7wx7xq/7834642d-ad01-4027-ae68-864ae3b3c03b/be4528e0-2117-11eb-8293-3b6cc591631c/file-jgy2xukh7wx7xr-471w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q034_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q034_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfj9d5es/83250a30-c724-4c44-8444-5900c245cf37/97335640-ffbc-11ea-8293-3b6cc591631c/file-jgy2xukfj9d5et-422w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q038_question_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q038_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 38,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh90ojwd/198a67a5-32c0-4293-ba27-d76665b53bf8/3a64f6d0-21b3-11eb-8293-3b6cc591631c/file-jgy2xukh90ojwe-500w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q038_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q038_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 41,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfja7j4t/9a731454-bcb0-4fb6-a3d4-1c9a27dd0f51/e41354d0-ffbf-11ea-8293-3b6cc591631c/file-jgy2xukfja7j4u-238w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q041_option_B_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q041_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 41,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfja8ai8/913f103e-b141-46ad-babd-f0da4bc7fa96/f9386300-ffbf-11ea-8293-3b6cc591631c/file-jgy2xukfja8ai9-230w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q041_option_C_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q041_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 41,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfja8tp7/fede1e14-0c4a-4cc7-bb1a-0666078f3078/080c02b0-ffc0-11ea-8293-3b6cc591631c/file-jgy2xukfja8tp8-285w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q041_option_D_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q041_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 41,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh90qfhx/e5f71279-4157-41df-bd4b-6fd7f6ecbe1b/6e9ce250-21b3-11eb-8293-3b6cc591631c/file-jgy2xukh90qfhy-320w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q041_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q041_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 43,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukfjcpu1q/4172c0f4-38e5-4713-9917-a0744dcf37f1/b3547ef0-ffc9-11ea-8293-3b6cc591631c/file-jgy2xukfjcpu1r-500w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q043_question_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q043_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 43,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh8t19j9/38a83118-be8a-4ef7-9361-ea7a10685665/52dfbb50-2195-11eb-8293-3b6cc591631c/file-jgy2xukh8t19ja-320w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q043_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q043_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 44,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh7uxvdv/c37d5e1d-9029-44c8-a59a-a8c68af688dd/fe200730-210f-11eb-8293-3b6cc591631c/file-jgy2xukh7uxvdw-393w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q044_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q044_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 44,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh7vdp5m/e6387425-4bc9-426d-9df9-0287a981ab51/b6426fa0-2111-11eb-8293-3b6cc591631c/file-jgy2xukh7vdp5n-332w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q044_explanation_img02.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q044_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 47,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh9376jf/cbdae3f1-0be5-449a-b784-67ff08ea8b70/12b4dab0-21bd-11eb-8293-3b6cc591631c/file-jgy2xukh9376jg-320w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q047_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q047_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 48,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh912evj/c3608665-18e4-4497-a765-9b85887cd334/bbd795f0-21b4-11eb-8293-3b6cc591631c/file-jgy2xukh912evk-488w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q048_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q048_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 48,
+      "type": "explanation",
+      "imageNumber": 2,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh9138qm/c8ee4187-66f5-4611-9021-fa903da1f729/d2e931e0-21b4-11eb-8293-3b6cc591631c/file-jgy2xukh9138qn-320w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q048_explanation_img02.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q048_explanation_img02.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 48,
+      "type": "explanation",
+      "imageNumber": 3,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jgy2xukh913ze0/67402113-5984-4c05-962f-13c6636f2516/e77f4680-21b4-11eb-8293-3b6cc591631c/file-jgy2xukh913ze1-317w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q048_explanation_img03.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q048_explanation_img03.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 56,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1kkf4xw1b/c50b73db-d741-48d4-bd7c-397d7a3423e5/3c9a2ff0-6075-11eb-81da-cfbaf2241254/file-1kkf4xw1c-320w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q056_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q056_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 70,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/1kkjollo9/93c72f8b-c92a-49f4-8192-7d5ca34bd672/40115780-62f5-11eb-aba0-150069576dc4/file-1kkjolloa-365w.png",
+      "localUrl": "/media/upload/jee_main_2020_online_5th_september_morning_slot/jee_main_2020_online_5th_september_morning_slot_q070_explanation_img01.png",
+      "fileName": "jee_main_2020_online_5th_september_morning_slot_q070_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    }
+  ],
+  "failures": []
+}

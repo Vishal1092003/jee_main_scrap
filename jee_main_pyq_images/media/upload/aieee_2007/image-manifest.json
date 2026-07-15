@@ -1,0 +1,388 @@
+{
+  "paper": "aieee_2007",
+  "totalImageOccurrences": 38,
+  "failedDownloads": 0,
+  "images": [
+    {
+      "questionNumber": 1,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jYswaYEnydBUemeje/bFFYCeXqlmtidaPWw58TDZ97GUT2t/P8y5AexQqBSAuTuEnnMtqZ/image.svg",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q001_explanation_img01.svg",
+      "fileName": "aieee_2007_q001_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 2,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/ePEcIRyQIDY9eujQT/3BZ3CCRgmoR8kh9wq7L26HhD5dda0/7nfUcsI8TaZnTzd0EcIrvT/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q002_question_img01.png",
+      "fileName": "aieee_2007_q002_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 2,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/C9AiJaJOxPyQrC1PH/doUo7O6XU3gAv365CL8cuZdLGaB5c/phmRS0mh8sgGaEAw5xxgzb/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q002_option_A_img01.png",
+      "fileName": "aieee_2007_q002_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 2,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/XAREp04OTzkQgrZZw/wQLYaCSJ6QOF9bNJTWLNHhfEMaupO/E8nyaY48genOna2njHvy0L/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q002_option_B_img01.png",
+      "fileName": "aieee_2007_q002_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 2,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/Sg9PR5D0DBcBRBCAA/ZnNlIHxrnWAAVFCH3P5HkDa222DWc/DxAdTmMhgcs0eQoKk7zKQ6/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q002_option_C_img01.png",
+      "fileName": "aieee_2007_q002_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 2,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/GCnyo2VHGtY07w3rm/Si61wKLDWjwiqDedSTx86E6bx6MBP/ImjbPIemc9Phu8qoCbeapU/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q002_option_D_img01.png",
+      "fileName": "aieee_2007_q002_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 7,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/u2eezkxfJOReDOlPM/wbrZqXmsOEyoi2pUrp4NPJrrVuSZx/d4o4PFvViNXoIMy1BkizGJ/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q007_question_img01.png",
+      "fileName": "aieee_2007_q007_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 8,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/6McJ2j3jV0mJaYwde/RsxRt4bjR8mleZzgu9oAaSJ3Ho1Wg/6rXrDWINc3T0bEY17DKC7Y/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q008_question_img01.png",
+      "fileName": "aieee_2007_q008_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 21,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/X1BR1cxmnTR3MtdTf/su8M6fO1oT7H5sysRgTzD344AHl30/JFExhKBV2aUBDy38fOvwe3/image.svg",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q021_explanation_img01.svg",
+      "fileName": "aieee_2007_q021_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 22,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/oirDkdiHDvToTkttw/HE8BcHJazRhESLWWpXl4ozZojFsed/96u46ru4EM7AG5zgtmF78m/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q022_explanation_img01.png",
+      "fileName": "aieee_2007_q022_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 23,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/jc161ivQcbdq0bi67/mIw0nNGl9d4hY8XmNmdEH1ag2TFCU/3cSxm5dD2HtlXDAQt3pMeb/image.svg",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q023_explanation_img01.svg",
+      "fileName": "aieee_2007_q023_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 26,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/fqys8IgQx5sirqNo5/4fpjKxCE5mFnAcorJQgCo2iExZ2wG/hqHbxL4MkqNWBlsmF5OPBv/image.svg",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q026_explanation_img01.svg",
+      "fileName": "aieee_2007_q026_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 31,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/wEgr6pcF91BqrRuYb/158ZdMtEPW3z582PbnjcwkZtxOzpe/iUQXXaAD8YROd52Isg7BZJ/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q031_question_img01.png",
+      "fileName": "aieee_2007_q031_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 36,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/y6TIVKiOYjdMNntdZ/Cycn7m9Q4DPie1Q2SaU6IqJCvPQqY/Z6MmVRrMqJ3taBPH74eOLM/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q036_question_img01.png",
+      "fileName": "aieee_2007_q036_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 36,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/XvX7bIkAwyLVBh5ng/wfroG7CIxzJcXiNzdrBXsySySq4pJ/B2T95LIqr5rzj6WCRHRbmC/image.svg",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q036_explanation_img01.svg",
+      "fileName": "aieee_2007_q036_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 37,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/5V7StTR3UsV0rneRT/hK07gHpiIvQm2Nn6ADrsQi73RUFP3/NMofWbCg12qKBT7ffB0FI2/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q037_question_img01.png",
+      "fileName": "aieee_2007_q037_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 37,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/xaRmzFCd0klti22Di/dKmQZ50k49xQp5mSoF2Ii0ISHSGtS/10W7HxMcu8DllrlhdP2vRK/image.svg",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q037_explanation_img01.svg",
+      "fileName": "aieee_2007_q037_explanation_img01.svg",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 41,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/n8ydx5UIXrSQLyRXt/2ADhoNflFUeaHH3lhoWEWJ9XWcP68/h1a35ZqIuNpGHVFuzeij2a/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q041_explanation_img01.png",
+      "fileName": "aieee_2007_q041_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "option_A",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/NdxXmdiwqLBtureFs/9kfj5CqthOdzQIpZdcPgQLb2dBdwd/2SLeImUmwavJGNzGtfcEwY/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q042_option_A_img01.png",
+      "fileName": "aieee_2007_q042_option_A_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "option_B",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/HcByF3pH0fZvilYRl/SIR0a8a4wpa8Fw2vJCHVTD9Oy4eV0/k8t9rQzbi0ERsdkVKRYLEO/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q042_option_B_img01.png",
+      "fileName": "aieee_2007_q042_option_B_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "option_C",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/zd1Eh4phLm66WqsrI/UvhxtVsSrpzlGvSMSeJDbjZKkuI9j/Ws1iUEqacCC4sBXNZtRQpu/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q042_option_C_img01.png",
+      "fileName": "aieee_2007_q042_option_C_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "option_D",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/BslN3hrQ8MX80eOob/XsdvojZxeVtthBjbUMmvJl59AoM4i/Vta5lt7y9pGUdAp3dXOjsn/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q042_option_D_img01.png",
+      "fileName": "aieee_2007_q042_option_D_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 42,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/VrnETSo65U3nKPEuZ/QUPSkgwVFWwHYfIWhOIiaaeFnCCcN/wu4bk1bAP4F4HROsQaxu8c/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q042_explanation_img01.png",
+      "fileName": "aieee_2007_q042_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 50,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/XdGu8YlI3H3w1hRpB/GmchkVwhhsQUTdgTuHMUQwyP4VMxr/CJTrMMpnTiHjN3xUzhe5V4/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q050_explanation_img01.png",
+      "fileName": "aieee_2007_q050_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 64,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/gdGNAEVA0bRD1917h/hq6Pr5YE6CcA4aRh1h3chQ1Krp0a8/OJZUNCg7HpgbS0Ezju1L9y/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q064_explanation_img01.png",
+      "fileName": "aieee_2007_q064_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 66,
+      "type": "question",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/uMZOloedoQ1yYDHnG/GWwNhYCkBIgVegHjBkiIERKxCQuXs/5fbBZ3bly58ofBYkeRWUF5/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q066_question_img01.png",
+      "fileName": "aieee_2007_q066_question_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 66,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/dGljHmRTVdqUvC7jS/wc9KtqHIo96UKsEP3DPvOFGsA3ROS/CXBdjiDL86NzR89FyRCpeL/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q066_explanation_img01.png",
+      "fileName": "aieee_2007_q066_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 72,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/mCL7bJNwXbxwNtzKw/9rEs2CTyvzqCk4jiTUjNAhQddCTWa/ecCT8M5S9Yl2tNtp3EMaGi/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q072_explanation_img01.png",
+      "fileName": "aieee_2007_q072_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 75,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/xqLeawVYK7SWuRcTY/DA1mwxLh5KOD1hycjUVtz03hFjSQ5/DeuF1LbEGMCUDZOxUXUKwO/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q075_explanation_img01.png",
+      "fileName": "aieee_2007_q075_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 87,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/IcEZ0Cnh0aIX52eGb/Z5ocmUjXcDy8Pxcv5dDC84CqpbZDX/dx1sCOGKeV1B6HsQv7UQDA/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q087_explanation_img01.png",
+      "fileName": "aieee_2007_q087_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 90,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/Qpm6lAJZzjErTv81o/TVrCMqLGc2wPQM0cQ0WnJuibjm41Z/Pledvr8S4l1VzhQUpyY7gJ/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q090_explanation_img01.png",
+      "fileName": "aieee_2007_q090_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 91,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/TfRDr9SFeHSaKnV3Z/Y3xOSZNr72ajIizs4RP0dfwRvOX62/MD65tKxAsAsFN4VxAXWfWd/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q091_explanation_img01.png",
+      "fileName": "aieee_2007_q091_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 97,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/cy59zm03z1FyLTTRR/bgo1QHBRjWkHvaluWHVIdaPBOvxN8/RrEsBDExxtALrpLwrEdrBo/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q097_explanation_img01.png",
+      "fileName": "aieee_2007_q097_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 104,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/hZrtkKsmuK1xHgWOu/qutke2wReX6HYKQR27Ulhd6KLQIAO/l4wUEb12mSEZmRZBRxhF1v/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q104_explanation_img01.png",
+      "fileName": "aieee_2007_q104_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 107,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/n5v7a49fdBNmzkCxo/scwQ3xOqKzzAceQVrqXXMo2qR5nWM/N2lHIwrEsLXr0vqvrUX5GL/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q107_explanation_img01.png",
+      "fileName": "aieee_2007_q107_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 112,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/gO5XroR0KnLdGiQ1R/JmYrKvMq5OlUGpCkF5HThGYbsy0T4/477QNJMPL7RTVWt8A5iUtf/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q112_explanation_img01.png",
+      "fileName": "aieee_2007_q112_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 113,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/xNuDHUdryDWOmooMl/5siAeRobdWCHx95v6Rydt4D85132d/Jj2S5lYkTHRleRzsvdtiUj/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q113_explanation_img01.png",
+      "fileName": "aieee_2007_q113_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    },
+    {
+      "questionNumber": 114,
+      "type": "explanation",
+      "imageNumber": 1,
+      "sourceUrl": "https://imagex.cdn.examgoal.net/tS1Sui8GFnVc3js1y/nknOtowDEynznoKwktbeaeIDioFhA/uWtdfnrsplxRPxh9sH9hGQ/image.png",
+      "localUrl": "/media/upload/aieee_2007/aieee_2007_q114_explanation_img01.png",
+      "fileName": "aieee_2007_q114_explanation_img01.png",
+      "status": "downloaded",
+      "error": null
+    }
+  ],
+  "failures": []
+}
